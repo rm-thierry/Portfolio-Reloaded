@@ -26,7 +26,7 @@ export default function Projects() {
                                     <h3 className="text-lg leading-6 font-medium text-gray-900">{project.title}</h3>
                                     <p className="mt-2 text-base text-gray-500">{project.description}</p>
                                     <a href={project.link} className="mt-3 block text-indigo-600 hover:text-indigo-500">
-                                        Learn more →
+                                        Mehr →
                                     </a>
                                 </div>
                             </div>
