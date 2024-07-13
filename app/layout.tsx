@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Thierry Wyss",
-  description: "Persöndliche Webseite von Thierry Wyss",
+  description: "Persöndliche Webseite von Thierry",
 };
 
 export default function RootLayout({
@@ -16,7 +16,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="de">
-      <body className='bg-gradient-to-r from-white via-gray-100 to-white'>{children}</body>
+      <body className={inter.className}>{children}</body>
     </html>
   );
 }
