@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1180ee8-961a-48bd-a62a-611633223a52" name="Changes" comment="CHAGNE: PROJECTS" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodyActiveAccount">
+    <option name="activeAccountId" value="ff2456a0-8c1f-4ca4-b9fb-f60380b2bd13" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2j6vgbHsGnnckTDLO9yX8ldwQJ4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.CodyProjectSettingsMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\thier\\Downloads\\Portfolio-Reloaded\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1180ee8-961a-48bd-a62a-611633223a52" name="Changes" comment="" />
+      <created>1720720453322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720720453322</updated>
+      <workItem from="1720720455391" duration="1208000" />
+      <workItem from="1720901069283" duration="5132000" />
+      <workItem from="1721038191613" duration="2190000" />
+      <workItem from="1721067086649" duration="248000" />
+      <workItem from="1721068823702" duration="1000" />
+    </task>
+    <task id="LOCAL-00001" summary="ADD: Navbar">
+      <option name="closed" value="true" />
+      <created>1720721274907</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720721274907</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ADD: Footer&#10;CHANGE: Navbar AND Hero">
+      <option name="closed" value="true" />
+      <created>1720903067957</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720903067957</updated>
+    </task>
+    <task id="LOCAL-00003" summary="CHANGE: layout.tsx">
+      <option name="closed" value="true" />
+      <created>1720903228610</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720903228610</updated>
+    </task>
+    <task id="LOCAL-00004" summary="CHANGE: FOOTER, HERO&#10;ADD: PROJECTS">
+      <option name="closed" value="true" />
+      <created>1720906986343</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720906986343</updated>
+    </task>
+    <task id="LOCAL-00005" summary="CHAGNE: PROJECTS">
+      <option name="closed" value="true" />
+      <created>1720907023603</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720907023603</updated>
+    </task>
+    <task id="LOCAL-00006" summary="CHAGNE: PROJECTS">
+      <option name="closed" value="true" />
+      <created>1721040596158</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721040596158</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADD: Navbar" />
+    <MESSAGE value="ADD: Footer&#10;CHANGE: Navbar AND Hero" />
+    <MESSAGE value="CHANGE: layout.tsx" />
+    <MESSAGE value="CHANGE: FOOTER, HERO&#10;ADD: PROJECTS" />
+    <MESSAGE value="CHAGNE: PROJECTS" />
+    <option name="LAST_COMMIT_MESSAGE" value="CHAGNE: PROJECTS" />
+  </component>
+</project>
