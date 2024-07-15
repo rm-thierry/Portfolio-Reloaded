@@ -16,10 +16,10 @@ export default function Hero() {
 
     return (
         <div>
-            <div className="relative isolate px-6 pt-14 lg:px-8 bg-gray-100 min-h-screen flex flex-col justify-center">
+            <div className="relative isolate px-6 pt-1 lg:px-8 bg-gray-100 min-h-5 flex flex-col justify-center">
                 <div className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80" aria-hidden="true">
                 </div>
-                <div className={`mx-auto max-w-1xl py-48 sm:py-72 lg:py-96 transition-opacity duration-1000 ${loading ? 'opacity-0' : 'opacity-100 fade-in-up'}`}>
+                <div className={`mx-auto max-w-1xl py-32 sm:py-48 lg:py-64 transition-opacity duration-1000 ${loading ? 'opacity-0' : 'opacity-100 fade-in-up'}`}>
                     <div className="text-center">
                         <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Portfolio Thierry Wyss</h1>
                         <p className="mt-6 text-lg leading-8 text-gray-600">Willkommen auf meinem persönlichen Portfolio.</p>
