@@ -2,9 +2,14 @@ import React from 'react';
 
 const projects = [
     {
-        title: 'Project One',
-        description: 'This is a brief description of project one.',
-        link: '#'
+        title: 'Puuk.ch',
+        description: 'Puuk.ch war ein Schulprojekt bei welchem man Sprüche hochladen konnte und Sprüchen von anderen bewerten konnte.',
+        link: 'https://puuk.ch'
+    },
+    {
+        title: 'thierry-wyss.ch',
+        description: 'Diese Seite ist mein Persöndliches Portfolio welches hier zusehen ist',
+        link: '/'
     }
 ];
 
