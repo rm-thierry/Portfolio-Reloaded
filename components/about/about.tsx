@@ -25,9 +25,9 @@ export default function About() {
                 <div className="mt-10 flex flex-col lg:flex-row items-center lg:items-start">
                     <div className="lg:mr-10">
                         <img
-                            className="w-48 h-48 rounded-full mx-auto"
-                            src=""
-                            alt=""
+                            className="w-56 h-56 rounded-full mx-auto shadow-lg"
+                            src="./thierry.png"
+                            alt="Thierry"
                         />
                     </div>
                     <div className="mt-6 lg:mt-0 text-lg leading-7 text-gray-700">
@@ -35,7 +35,7 @@ export default function About() {
                             Es freut mich, dass du den Weg hierher gefunden hast. Mein Name ist Thierry, ich bin 17 Jahre alt und ich mache meine Ausbildung als Informatiker EFZ.
                         </p>
                         <p className="mt-4">
-                            In Meiner Freizeit programmiere ich und mache gerne Sport.
+                            In meiner Freizeit programmiere ich und mache gerne Sport.
                         </p>
                     </div>
                 </div>
