@@ -8,7 +8,7 @@ const projects = [
     },
     {
         title: 'thierry-wyss.ch',
-        description: 'Diese Seite ist mein Persöndliches Portfolio welches hier zusehen ist',
+        description: 'Diese Seite ist mein persönliches Portfolio welches hier zu sehen ist',
         link: '/'
     }
 ];
@@ -23,7 +23,7 @@ export default function Projects() {
                         Meine öffentlichen Projekte
                     </p>
                 </div>
-                <div className="mt-10">
+                <div className="mt-6">
                     <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
                         {projects.map((project, index) => (
                             <div key={index} className="bg-white overflow-hidden shadow rounded-lg">
